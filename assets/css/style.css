@@ -114,7 +114,6 @@ h2 {
     padding: 5px 0;    
 }
 
-
 /* Footer / contact */
 
 #contact {
@@ -185,7 +184,7 @@ h2 {
 @media screen and (min-width: 1200px) {
     /* Make all service cards the same height for consistency */
     #services .card-body {
-        min-height: 220px;
+        min-height: 320px;
     }
 }
 
