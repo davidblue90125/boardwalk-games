@@ -102,6 +102,19 @@ h2 {
     border: none;
 }
 
+/* Events */
+#events .discount {
+    background-color: var(--highlight-color);
+    color: white;
+    font-weight: bold;
+    text-align: center;  
+}
+
+#events .discount p{
+    padding: 5px 0;    
+}
+
+
 /* Footer / contact */
 
 #contact {
